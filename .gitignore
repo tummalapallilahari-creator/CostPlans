@@ -1,0 +1,15 @@
+# Nested repo (avoid "does not have a commit checked out")
+CostPlans/
+
+# Dependencies
+node_modules/
+
+# Env and secrets
+.env
+.env.local
+*.env
+
+# Build and logs
+dist/
+*.log
+.DS_Store
